@@ -3,6 +3,6 @@ class A{
 	{
 		String s="hel";
 		String s1="oo";
-		System.out.println(hello);
+		System.out.println(s1+s2);
 	}
 }
